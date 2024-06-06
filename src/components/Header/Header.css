@@ -110,3 +110,21 @@ a img{
   color: #090b13;
   border-color: transparent;
 }
+.userprofile{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  img {
+    display: block;
+    height: 50%;
+    min-width: auto;
+    width: 50%;
+    border-radius: 50%;
+  }
+  /* p{
+    margin-top: 0;
+    margin-bottom: 0;
+  } */
+  
+}
